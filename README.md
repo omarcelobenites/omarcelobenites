@@ -4,10 +4,28 @@
 <img src="https://alphaomegatecnologia.com.br/images/alpha/noticias/programa%C3%A7%C3%A3o.jpg" style="width:300px; height:250px; align:left; " alt="JavaScript">  <!-- Opcional: Você pode adicionar um banner ou imagem aqui -->
 
 ## Sobre mim
-Olá! Eu sou Marcelo Benites, desenvolvedor frontend apaixonado por tecnologia e inovação. Bem-vindo ao meu perfil do GitHub! 
 
-- 👀 Tenho interesso a um estagio de Emprego
-- 🌱 Atualmente Estou Estudando HTML,PHP e Banco de Dados
+### Desenvolvedor Frontend | Engenharia de Frontend na EBAC | Análise e Desenvolvimento de Sistemas
+
+Olá! Sou Marcelo Benites, um entusiasta apaixonado por desenvolvimento frontend e inovação tecnológica. Possuo formação em Análise e Desenvolvimento de Sistemas pela Uniasselvi e estou atualmente cursando Engenharia de Frontend na EBAC. Meu foco está em criar interfaces intuitivas e funcionais que proporcionem uma excelente experiência ao usuário.
+
+### Competências:
+- **Desenvolvimento Frontend Avançado:** Especializado em HTML, CSS e JavaScript para construção de aplicações web modernas e responsivas.
+- **Experiência em React:** Desenvolvimento de componentes reutilizáveis e aplicações escaláveis.
+- **Otimização de Performance:** Utilização de técnicas avançadas para melhorar a velocidade e eficiência das aplicações.
+- **Colaboração Efetiva:** Familiaridade com Git e GitHub para versionamento de código e trabalho em equipe.
+
+### Projetos Destacados:
+- **Desenvolvimento de Interfaces Inovadoras:** Criando designs visuais atraentes que combinam estética com usabilidade.
+- **Aplicações Web Interativas:** Implementação de funcionalidades complexas para melhorar a interação do usuário.
+- **Aprendizado em Inglês:** Investindo no desenvolvimento de habilidades linguísticas para uma comunicação globalizada.
+
+### Objetivo Profissional:
+Estou em busca de oportunidades desafiadoras onde possa aplicar minha paixão pelo frontend e contribuir para projetos que valorizem a experiência do usuário e a inovação tecnológica.
+
+---
+
+Se interessou pelo meu trabalho? Vamos colaborar juntos! Conecte-se comigo aqui no GitHub.
 
 ## Linguagens de Programação e Tecnologias
 Aqui estão algumas das linguagens de programação e tecnologias que eu utilizo:
