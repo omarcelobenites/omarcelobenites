@@ -8,7 +8,6 @@ Olá! Eu sou Marcelo Benites, desenvolvedor frontend apaixonado por tecnologia e
 
 - 👀 Tenho interesso a um estagio de Emprego
 - 🌱 Atualmente Estou Estudando HTML,PHP e Banco de Dados
-- 📫 Contate-me Aqui: marcelobenitespro85@gmail.com
 
 ## Linguagens de Programação e Tecnologias
 Aqui estão algumas das linguagens de programação e tecnologias que eu utilizo:
@@ -38,12 +37,12 @@ Você pode me encontrar nas seguintes plataformas:
 <div> 
   <a href="https://instagram.com/marcelofelixbenites" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://api.whatsapp.com/send?phone=5551995404710&text=Ol%C3%A1%20tudo%20bem%20sou%20Marcelo%20Benites%20Em%20que%20posso%20te%20Ajudar%3F%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href = "mailto:marcelobenitespro85@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marcelofelixbenites1985@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-benites-2a2893168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div><br/>
 
 ## Contato
-- Email: [seu-email@example.com](mailto:seu-marcelofelixbenites1985@gmail.com)
+- Email: [marcelofelixbenites1985@gmail.com](mailto:marcelofelixbenites1985@gmail.com)
 
 ---
 
