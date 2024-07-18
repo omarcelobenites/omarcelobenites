@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">. Technical Course in Informatics<br>. Systems Analysis and Development (4th semester, Uniasselvi)<br>. Frontend Engineering (EBAC - British School of Creative Arts and Technology)</p>
+<p align="left">. Technical Course in Informatics<br>. Systems Analysis and Development (4th semester, Uniasselvi)<br>. Frontend Engineering (EBAC - British School of Creative Arts and Technology)<br> . English course</p>
 
 ###
 
