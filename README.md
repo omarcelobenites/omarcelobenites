@@ -64,6 +64,8 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge" height="40" alt="babel logo"  />
 </div>
 
 ###
