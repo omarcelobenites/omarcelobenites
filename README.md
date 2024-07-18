@@ -1,67 +1,118 @@
-# <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">  Bem-vindo ao meu perfil do GitHub!
+<h1 align="center">😀 Welcome to my GitHub profile!</h1>
 
+###
 
-<img src="https://alphaomegatecnologia.com.br/images/alpha/noticias/programa%C3%A7%C3%A3o.jpg" style="width:300px; height:250px; align:left; " alt="JavaScript">  <!-- Opcional: Você pode adicionar um banner ou imagem aqui -->
+<h2 align="center">🎓 Education</h2>
 
-## Sobre mim
+###
 
-### Desenvolvedor Frontend | Engenharia de Frontend na EBAC | Análise e Desenvolvimento de Sistemas
+<p align="left">. Technical Course in Informatics<br>. Systems Analysis and Development (4th semester, Uniasselvi)<br>. Frontend Engineering (EBAC - British School of Creative Arts and Technology)</p>
 
-Olá! Sou Marcelo Benites, um entusiasta apaixonado por desenvolvimento frontend e inovação tecnológica. Possuo formação em Análise e Desenvolvimento de Sistemas pela Uniasselvi e estou atualmente cursando Engenharia de Frontend na EBAC. Meu foco está em criar interfaces intuitivas e funcionais que proporcionem uma excelente experiência ao usuário.
+###
 
-### Competências:
-- **Desenvolvimento Frontend Avançado:** Especializado em HTML, CSS e JavaScript para construção de aplicações web modernas e responsivas.
-- **Experiência em React:** Desenvolvimento de componentes reutilizáveis e aplicações escaláveis.
-- **Otimização de Performance:** Utilização de técnicas avançadas para melhorar a velocidade e eficiência das aplicações.
-- **Colaboração Efetiva:** Familiaridade com Git e GitHub para versionamento de código e trabalho em equipe.
+<h2 align="center">I ❤️ solve great challenges using tech.</h2>
 
-### Projetos Destacados:
-- **Desenvolvimento de Interfaces Inovadoras:** Criando designs visuais atraentes que combinam estética com usabilidade.
-- **Aplicações Web Interativas:** Implementação de funcionalidades complexas para melhorar a interação do usuário.
-- **Aprendizado em Inglês:** Investindo no desenvolvimento de habilidades linguísticas para uma comunicação globalizada.
+###
 
-### Objetivo Profissional:
-Estou em busca de oportunidades desafiadoras onde possa aplicar minha paixão pelo frontend e contribuir para projetos que valorizem a experiência do usuário e a inovação tecnológica.
+<p align="center">I am passionate about technology and web development, focused on creating interactive and responsive experiences. Currently, I am deepening my knowledge in frontend through the course at EBAC and applying what I learn in my Systems Analysis and Development course. I enjoy working with HTML, CSS, JavaScript, React, and other modern technologies.</p>
 
----
+###
 
-Se interessou pelo meu trabalho? Vamos colaborar juntos! Conecte-se comigo aqui no GitHub.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarceloBenites1985&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloBenites1985&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloBenites1985&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-## Linguagens de Programação e Tecnologias
-Aqui estão algumas das linguagens de programação e tecnologias que eu utilizo:
+###
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/-Less-1D365D?logo=less&logoColor=white" alt="Less">
-  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white" alt="Redux">
-  <img src="https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white" alt="Gulp">
-  <img src="https://img.shields.io/badge/-Grunt-FAA918?logo=grunt&logoColor=white" alt="Grunt">
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white" alt="React">
-</p>
+<h2 align="center">My Skill</h2>
 
-## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-MarceloBenites1985&show_icons=true&theme=radical" alt="Suas Estatísticas no GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
-</p>
+###
 
-## Redes Sociais
-Você pode me encontrar nas seguintes plataformas:
+<h3 align="center">My Stack</h3>
 
-<div> 
-  <a href="https://instagram.com/marcelofelixbenites" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://api.whatsapp.com/send?phone=5551995404710&text=Ol%C3%A1%20tudo%20bem%20sou%20Marcelo%20Benites%20Em%20que%20posso%20te%20Ajudar%3F%3F" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href = "mailto:marcelofelixbenites1985@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcelo-benites-2a2893168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div><br/>
+###
 
-## Contato
-- Email: [marcelofelixbenites1985@gmail.com](mailto:marcelofelixbenites1985@gmail.com)
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=white&style=for-the-badge" height="40" alt="less logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Grunt-FAA918?logo=grunt&logoColor=black&style=for-the-badge" height="40" alt="grunt logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="40" alt="php logo"  />
+</div>
 
----
+###
 
-Obrigado pela visita! Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer projeto que lhe interesse.
+<h3 align="center">Databases</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="center">Workstation Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?logo=androidstudio&logoColor=black&style=for-the-badge" height="40" alt="androidstudio logo"  />
+</div>
+
+###
+
+<h2 align="center">contact</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcelo-benites-2a2893168/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/marcelofelixbenites/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://bit.ly/4fad3tt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/marcelofelixbenites1985@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
