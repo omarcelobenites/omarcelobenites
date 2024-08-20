@@ -28,6 +28,9 @@
 
 ### Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=rio_grande_do_sul)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=rio_grande_do_sul.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
