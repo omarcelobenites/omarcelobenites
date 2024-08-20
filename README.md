@@ -26,7 +26,12 @@
   
 ###
 
-### Projects
+
+###
+
+<h2 align="center">Projects</h2>
+
+###
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=rio_grande_do_sul&theme=dracula)](https://rio-grande-do-sul-nu.vercel.app/)
 
