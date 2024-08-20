@@ -1,4 +1,18 @@
+![](assets/Bottom_up.svg)
+
+<p align="center">
+    <a href="https://github.com/MarceloBenites1985/MarceloBenites1985"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/MarceloBenites1985/MarceloBenites1985/graphs/contributors"><img src="https://img.shields.io/github/contributors/MarceloBenites1985/MarceloBenites1985?color=blue"></a>
+    <a href="https://github.com/MarceloBenites1985/MarceloBenites1985/stargazers"><img src="https://img.shields.io/github/stars/MarceloBenites1985/MarceloBenites1985.svg?logo=github"></a>
+    <a href="https://github.com//MarceloBenites1985/MarceloBenites1985/network/members"><img src="https://img.shields.io/github/forks/MarceloBenites1985/MarceloBenites1985.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=MarceloBenites1985.MarceloBenites1985" alt="visitors"/>   
+</p>
 <h1 align="center">😀 Welcome to my GitHub profile!</h1>
+
+![](./src/header_.png)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Marcelo+Benites;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast+;Slack+community+member)](https://git.io/typing-svg)
+
 
 ###
 
