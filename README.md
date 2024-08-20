@@ -26,9 +26,9 @@
   
 ###
 
-### Projetos
+### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=MarceloBenites1985.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=ex-ebac-calculadora.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
 
