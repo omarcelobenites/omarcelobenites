@@ -7,7 +7,6 @@
     <a href="https://github.com//MarceloBenites1985/MarceloBenites1985/network/members"><img src="https://img.shields.io/github/forks/MarceloBenites1985/MarceloBenites1985.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=MarceloBenites1985.MarceloBenites1985" alt="visitors"/>   
 </p>
-<h1 align="center">😀 Welcome to my GitHub profile!</h1>
 
 ![](./src/header_.png)
 
