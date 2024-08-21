@@ -12,7 +12,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Marcelo+Benites;+Welcome+to+My+Profile!;Always+learning+new+things+;Machine+learning+enthusiast+;Slack+community+member)](https://git.io/typing-svg)
 
-![68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f336b50446d6f5764427051504e68436e55472f67697068792e6769663f6369643d6563663035653437637a63633533323736357773356f756d7379666c6d7272336c3834](https://github.com/user-attachments/assets/e78048a1-ae3c-4a45-b15d-bf7a2c360c1e)
 
 
 
