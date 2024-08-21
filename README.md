@@ -41,8 +41,8 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=clone_disneyplus&theme=dracula)](https://clone_disneyplus-nu.vercel.app/)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=clone_disneyplus&theme=dracula)](
+https://clone-disneyplus-91kz.vercel.app/)
 
 
 ###
