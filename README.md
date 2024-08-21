@@ -1,12 +1,6 @@
 ![](assets/Bottom_up.svg)
 
-<p align="center">
-    <a href="https://github.com/MarceloBenites1985/MarceloBenites1985"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/MarceloBenites1985/MarceloBenites1985/graphs/contributors"><img src="https://img.shields.io/github/contributors/MarceloBenites1985/MarceloBenites1985?color=blue"></a>
-    <a href="https://github.com/MarceloBenites1985/MarceloBenites1985/stargazers"><img src="https://img.shields.io/github/stars/MarceloBenites1985/MarceloBenites1985.svg?logo=github"></a>
-    <a href="https://github.com//MarceloBenites1985/MarceloBenites1985/network/members"><img src="https://img.shields.io/github/forks/MarceloBenites1985/MarceloBenites1985.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=MarceloBenites1985.MarceloBenites1985" alt="visitors"/>   
-</p>
+
 
 ![](./src/header_.png)
 
