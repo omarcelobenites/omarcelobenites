@@ -28,29 +28,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarceloBenites1985&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloBenites1985&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloBenites1985&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-  <!--   green snake -->
-
-###
-
-<h2 align="center">Projects</h2>
-
-###
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=clone_disneyplus&theme=dracula)](
-https://clone-disneyplus-91kz.vercel.app/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=ebac_ex_happy_birthday&theme=dracula)](https://ebac-ex-happy-birday.vercel.app/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=agencia_vizen&theme=dracula)]()
-
-
-
-
 ###
 
 <h2 align="center">My Skill</h2>
@@ -131,6 +108,51 @@ https://clone-disneyplus-91kz.vercel.app/)
 </div>
 
 ###
+
+###
+
+<h2 align="center">Stats</h2>
+
+###
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarceloBenites1985&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarceloBenites1985&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarceloBenites1985&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+ <img src="https://raw.githubusercontent.com/MarceloBenites1985/MarceloBenites1985/output/snake.svg" alt="Snake animation" />
+
+###
+
+###
+
+<h2 align="center">visitors</h2>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MarceloBenites1985/count.svg?"  />
+</div>
+
+###
+
+###
+
+<h2 align="center">Projects</h2>
+
+###
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=clone_disneyplus&theme=dracula)](
+https://clone-disneyplus-91kz.vercel.app/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=ebac_ex_happy_birthday&theme=dracula)](https://ebac-ex-happy-birday.vercel.app/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarceloBenites1985&repo=agencia_vizen&theme=dracula)]()
+
+
+
+
 
 ###
 
