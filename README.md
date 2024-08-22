@@ -58,7 +58,7 @@ https://https://ebac-ex-happy-birday.vercel.app/)
 
 ###
 
-<h3 align="center">My Stack</h3>
+<h3 align="center">Technologies</h3>
 
 ###
 
