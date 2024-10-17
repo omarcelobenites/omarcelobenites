@@ -18,25 +18,25 @@
 
 ###
 
-<p align="left">. Technical Course in Informatics<br>. Systems Analysis and Development (4th semester, Uniasselvi)<br>. Frontend Engineering (EBAC - British School of Creative Arts and Technology)<br> . English course</p>
+<p align="left">.Curso Técnico em Informática<br>. Análise e Desenvolvimento de Sistemas (4º semestre, Uniasselvi)<br>. Engenharia Frontend (EBAC - British School of Creative Arts and Technology)<br> . Curso de Inglês</p>
 
 ###
 
-<h2 align="center">I ❤️ solve great challenges using tech.</h2>
+<h2 align="center">I ❤️Resolver grandes desafios usando tecnologia.</h2>
 
 ###
 
-<p align="center">I am passionate about technology and web development, focused on creating interactive and responsive experiences. Currently, I am deepening my knowledge in frontend through the course at EBAC and applying what I learn in my Systems Analysis and Development course. I enjoy working with HTML, CSS, JavaScript, React, and other modern technologies.</p>
+<p align="center">Sou apaixonado por tecnologia e desenvolvimento web, focado em criar experiências interativas e responsivas. Atualmente, estou aprofundando meus conhecimentos em frontend através do curso na EBAC e aplicando o que aprendo no meu curso de Análise e Desenvolvimento de Sistemas. Gosto de trabalhar com HTML, CSS, JavaScript, React e outras tecnologias modernas.</p>
 
 ###
 
 ###
 
-<h2 align="center">My Skill</h2>
+<h2 align="center">Minhas Habilidades</h2>
 
 ###
 
-<h3 align="center">Technologies</h3>
+<h3 align="center">Tecnologias</h3>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h3 align="center">Databases</h3>
+<h3 align="center">Bases de dados</h3>
 
 ###
 
@@ -100,7 +100,7 @@
 ###
 
 
-<h3 align="center">Workstation Tools</h3>
+<h3 align="center">Ferramentas de Trabalho</h3>
 
 ###
 
@@ -118,7 +118,7 @@
 
 ###
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Estatísticas</h2>
 
 ###
 
@@ -134,7 +134,7 @@
 
 ###
 
-<h2 align="center">visitors</h2>
+<h2 align="center">visitantes</h2>
 
 ###
 
@@ -146,7 +146,7 @@
 
 ###
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Projetos</h2>
 
 ###
  
@@ -164,7 +164,7 @@ https://clone-disneyplus-91kz.vercel.app/)
 
 ###
 
-<h2 align="center">contact</h2>
+<h2 align="center">Meus contatos</h2>
 
 ###
 
